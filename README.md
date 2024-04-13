@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chris Scott</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
+
+<img src="./profile-3d-contrib/profile-green-animate.svg"/>
+
 <h3 align="left">🖋️ SUMMARY:</h3>
 <p align="left">
   Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly   with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills.
 </p>
-
-<img src="./profile-3d-contrib/profile-green-animate.svg"/>
-
 
 
 <h3 align="left">📫 Languages and Tools:</h3>
