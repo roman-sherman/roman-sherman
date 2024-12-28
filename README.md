@@ -16,8 +16,8 @@
 </ul>
 <h3 align="left">🪄 SPECIALIZATION</h3>
 <ul>
-  <li>SPA frameworks (React, Angular, Vue)</li>
-  <li>React Native, Flutter, and Ionic development</li>
+  <li>SPA frameworks (React, Node, Angular, Vue, Next)</li>
+  <li>React Native, Flutter, Kotlin and Ionic development</li>
   <li>RESTful API and microservice development</li>
   <li>NFT marketplace, TokenSwap, wallets, trading bot development</li>
 </ul>
