@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arseni Iulian</h1>
+<h1 align="center">Hi 👋, I'm Roman Sherman</h1>
 <h3 align="center">A Passionate Full-Stack & Mobile Developer</h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
@@ -16,7 +16,7 @@
 </ul>
 <h3 align="left">🪄 SPECIALIZATION</h3>
 <ul>
-  <li>SPA frameworks (React, Node, Angular, Vue, Next)</li>
+  <li>SPA frameworks (Vue/Laravel and Django, React, Next, Node, PHP, Python)</li>
   <li>React Native, Flutter, Kotlin and Ionic development</li>
   <li>RESTful API and microservice development</li>
   <li>NFT marketplace, TokenSwap, wallets, trading bot development</li>
