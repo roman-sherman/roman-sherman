@@ -93,6 +93,15 @@
           </td>
         </tr>
       </tbody>
+       <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">APPICS</th>
+          <th align="center" style="border: 1px solid">Bumble</th>
+          <th align="center" style="border: 1px solid">Huddle Health</th>
+          <th align="center" style="border: 1px solid">Payeer</th>
+          <th align="center" style="border: 1px solid">Singlife</th>
+        </tr>
+      </thead>
     </table>
   <h4><strong>📱 Mobile Apps</strong></h4>
   <table align="center" style="border: 1px solid">
