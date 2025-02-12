@@ -65,6 +65,33 @@
             </a>
           </td>
         </tr>
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://appics.com/">
+              <img src="./img/web/appics_web.jpg" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://bumble.com/">
+              <img src="./img/web/bumble_web.jpg" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://huddle-health.com/">
+              <img src="./img/web/huddle_web.jpg" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://payeer.com/en/">
+              <img src="./img/web/payeer_web.jpg" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://singlife.com/en">
+              <img src="./img/web/singlife_web.jpg" width="200">
+            </a>
+          </td>
+        </tr>
       </tbody>
     </table>
   <h4><strong>📱 Mobile Apps</strong></h4>
