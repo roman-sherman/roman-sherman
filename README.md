@@ -68,38 +68,38 @@
       </tbody>
       <thead align="center">
         <tr align="center">
-          <th align="center" style="border: 1px solid">APPICS</th>
-          <th align="center" style="border: 1px solid">Bumble</th>
-          <th align="center" style="border: 1px solid">Huddle Health</th>
-          <th align="center" style="border: 1px solid">Payeer</th>
-          <th align="center" style="border: 1px solid">Singlife</th>
+          <th align="center" style="border: 1px solid">Venly</th>
+          <th align="center" style="border: 1px solid">Frame It All</th>
+          <th align="center" style="border: 1px solid">Coliv HQ</th>
+          <th align="center" style="border: 1px solid">Public Goods</th>
+          <th align="center" style="border: 1px solid">Bmon Store</th>
         </tr>
      </thead>
      <tbody align="center">
         <tr>
           <td style="border: 1px solid">
-            <a href="https://appics.com/">
-              <img src="./img/web/appics_web.jpg" width="200">
+            <a href="https://www.venly.io/">
+              <img src="./img/web/venly_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://bumble.com/">
-              <img src="./img/web/bumble_web.jpg" width="200">
+            <a href="https://frameitall.com/">
+              <img src="./img/web/frameitall_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://huddle-health.com/">
-              <img src="./img/web/huddle_web.jpg" width="200">
+            <a href="https://colivhq.com/">
+              <img src="./img/web/colivhq_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://payeer.com/en/">
-              <img src="./img/web/payeer_web.jpg" width="200">
+            <a href="https://www.publicgoods.com/">
+              <img src="./img/web/bublicgoods_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
-            <a href="https://singlife.com/en">
-              <img src="./img/web/singlife_web.jpg" width="200">
+            <a href="https://www.bmonstore.com/">
+              <img src="./img/web/bmonstore_web.jpg" width="200">
             </a>
           </td>
         </tr>
